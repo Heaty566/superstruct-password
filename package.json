@@ -1,0 +1,8 @@
+{
+  "name": "superstruct-password",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Heaty566/superstruct-password.git",
+  "author": "vinhnhan1002 <vinhnhan1002@gmail.com>",
+  "license": "MIT"
+}
